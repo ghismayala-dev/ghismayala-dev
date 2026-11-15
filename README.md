@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**ghismayala-dev/ghismayala-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! 👋 I’m Ghislain
+IT Technician | Systems & Network Administration | Aspiring Software Developer
+Welcome to my GitHub profile!
+I’m an IT professional passionate about technology, computer systems, networking, maintenance, and software development.
+I enjoy solving technical problems, learning new technologies, and building practical solutions.
+🛠️ Technical Skills & Technologies
+IT Support: Computer Hardware & Software Maintenance
+Networking: TCP/IP, DNS, DHCP, Routing & Switching
+Systems Administration: Windows Server, Active Directory
+🌱 Currently Learning
+Software Development
+Full-Stack Development
+Database Management
+Systems & Network Administration
+🎯 My Goals
+To strengthen my technical expertise, build useful software solutions, and contribute to innovative technology projects.
+🤝 Let’s Connect
+I’m always open to learning, collaboration, and sharing knowledge.
+Thanks for visiting my profile! 🚀
