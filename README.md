@@ -6,6 +6,7 @@ I’m an IT professional passionate about technology, computer systems, networki
 I enjoy solving technical problems, learning new technologies, and building practical solutions.
 
 🛠️ Technical Skills
+
 IT Support: Computer Hardware & Software Maintenance
 Networking: TCP/IP, DNS, DHCP, Routing & Switching
 Systems Administration: Windows Server, Active Directory
@@ -14,6 +15,7 @@ Frameworks: Flutter, React, Node.js
 Databases: MySQL
 
 🌱 Currently Learning
+
 Software Development
 Full-Stack Development
 Database Management
